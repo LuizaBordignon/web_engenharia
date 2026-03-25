@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>W-Core - Login</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Barlow:wght@300;400;600&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/variables.css" />
+  <link rel="stylesheet" href="css/login.css" />
+</head>
+<body>
+
+  <div class="login-panel">
+
+    <header class="login-header">
+      <p class="system-tag">W-CORE / PLANTA 42</p>
+      <h1>W-<span>Core</span></h1>
+      <p class="system-subtitle">sala de controle — acesso restrito</p>
+    </header>
+
+    <hr class="divider" />
+
+    <div class="login-form">
+
+      <div class="field-group">
+        <label for="email">identificador do operador</label>
+        <input
+          type="email"
+          id="email"
+          placeholder="operador@planta42.com"
+          autocomplete="email"
+        />
+      </div>
+
+      <div class="field-group">
+        <label for="password">chave de acesso</label>
+        <input
+          type="password"
+          id="password"
+          placeholder="••••••••••••"
+          autocomplete="current-password"
+        />
+      </div>
+
+      <button class="btn-login" id="btn-login">
+        acessar sala de controle
+      </button>
+
+      <p class="error-msg" id="error-msg"></p>
+
+    </div>
+
+    <footer class="login-footer">
+      <span class="status-indicator">sistema operacional</span>
+      <span class="version">w-core v0.1.0</span>
+    </footer>
+
+  </div>
+
+  <script src="js/login.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+:root {
+  --bg-base: #0a0c0f;
+  --bg-surface: #111419;
+  --bg-input: #1a1e25;
+
+  --border: #2a2f3a;
+
+  --text-primary: #e8eaf0;
+  --text-muted: #5a6070;
+  --text-label: #8892a0;
+
+  --green: #00ff9d;
+  --green-hover: #00c97a;
+  --amber: #ffb830;
+  --red: #ff4d4d;
+
+  --font-mono: 'Share Tech Mono', monospace;
+  --font-body: 'Barlow', sans-serif;
+}
