@@ -1,4 +1,4 @@
-# Step 3 — Design System e Dashboard
+# Step 3 - Design System e Dashboard
 
 ## O que foi pedido
 

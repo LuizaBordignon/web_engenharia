@@ -1,4 +1,4 @@
-# Step 5 — Infraestrutura
+# Step 5 - Infraestrutura
 
 ## O que foi pedido
 

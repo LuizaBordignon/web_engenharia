@@ -1,4 +1,4 @@
-# Step 2 — OTP & ETS
+# Step 2 - OTP & ETS
 
 ## O que foi pedido
 

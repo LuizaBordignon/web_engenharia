@@ -1,4 +1,4 @@
-# Step 4 — Testes
+# Step 4 - Testes
 
 ## O que foi pedido
 
