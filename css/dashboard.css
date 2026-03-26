@@ -11,8 +11,6 @@ body {
   min-height: 100vh;
 }
 
-/* ── Topo ─────────────────────────────────────────────────────────── */
-
 .topbar {
   background-color: #111419;
   border-bottom: 1px solid #2a2f3a;
@@ -58,8 +56,6 @@ body {
   color: #0a0c0f;
 }
 
-/* ── Conteúdo ─────────────────────────────────────────────────────── */
-
 .container {
   padding: 2rem;
   max-width: 1100px;
@@ -74,8 +70,6 @@ body {
   letter-spacing: 0.1em;
   margin-bottom: 1.5rem;
 }
-
-/* ── Cards de resumo ──────────────────────────────────────────────── */
 
 .summary {
   display: grid;
@@ -108,8 +102,6 @@ body {
 .summary-value.green { color: #00ff9d; }
 .summary-value.amber { color: #ffb830; }
 .summary-value.red   { color: #ff4d4d; }
-
-/* ── Grid de sensores ─────────────────────────────────────────────── */
 
 .sensors-grid {
   display: grid;
